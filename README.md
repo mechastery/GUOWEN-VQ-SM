@@ -7,6 +7,10 @@
 - python39
 - pytorch (torch 1.12.1+cu116 used)
 
+- new version
+- python 3.11
+- pytorch (torch 2.10 + cuda 13.1 used)
+
 ## Dataset and Pre-trained models
 The dataset and the pre-trained model are available from [Google Drive](https://drive.google.com/drive/folders/1u6PI_WarJmE1bYFMG_Z0bH7aGifEsSMT?usp=sharing)
 
